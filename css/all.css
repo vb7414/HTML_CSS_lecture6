@@ -153,6 +153,10 @@ table {
   padding: 5px;
 }
 
+.header .fb_twitter img {
+  margin-left: 10px;
+}
+
 .header .fb_twitter span {
   font-weight: bold;
 }
@@ -225,6 +229,8 @@ table {
 
 .content .content-item h2 {
   font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .footer {
